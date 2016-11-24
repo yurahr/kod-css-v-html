@@ -1,0 +1,26 @@
+<style>
+.uroki {
+	color: #333; 
+	font-size: 1.0em; 
+	font-family:'Fira Sans','PT Sans','Roboto Condensed';
+        width: 95%;
+        border: 2px solid #d7d7d7;
+        margin-top: 30px;
+}
+.content_uroki {
+        padding: 10px;
+}
+.title_uroki {
+        text-align: center;
+        font-size: 1.3em;
+        font-family: 'Cuprum';
+        border-bottom: 2px solid #d7d7d7;
+        padding: 10px 0;
+}
+.img_uroki {
+        float: left;
+        margin-right: 20px;
+}
+.text_uroki: {     
+}
+</style>
